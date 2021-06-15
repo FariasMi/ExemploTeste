@@ -1,5 +1,5 @@
-# ExemploTeste
-Primeiro script de teste com Selenium e Cucumber. 
+# Exemplo de Testes Automatizados
+Primeiro script de teste automatizado com Selenium e Cucumber. 
 ## Objetivo
 * Acessar a página do Google, 
 * realizar a pesquisa por um produto
